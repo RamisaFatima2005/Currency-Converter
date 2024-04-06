@@ -1,6 +1,6 @@
 {
-  "name": "rupees_currency_convertor",
-  "version": "1.0.0",
+  "name": "rmf_curency_converter",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "type":"module",
